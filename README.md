@@ -41,36 +41,4 @@ I'm an Artificial Intelligence graduate from the **British University in Egypt (
 
 ---
 
-## 🚀 Featured Projects
-
-### 👕 HybridVTON — Virtual Try-On
-A diffusion-based virtual try-on system that combines explicit garment alignment with implicit attention-based correspondence to improve clothing-body alignment and preserve clothing details.
-
-**Focus:** Virtual Try-On · Diffusion Models · Computer Vision · PyTorch
-
-### 🎨 AI Fashion Designer
-An AI-powered fashion generation system combining language models and fine-tuned text-to-image models to transform natural-language clothing descriptions into generated fashion images.
-
-**Focus:** SDXL · Generative AI · LLMs · LangGraph · Multi-Agent Systems
-
-### 👟 Sketch-to-Shoe Generation
-A research-oriented image generation project exploring sketch-conditioned generation using Diffusion Transformers (DiT).
-
-**Focus:** Image Generation · Diffusion Transformers · Deep Learning
-
-### 🏥 Healthcare RAG System
-A retrieval-augmented generation system designed to retrieve relevant information from a knowledge base and use it to support context-aware question answering.
-
-**Focus:** RAG · Embeddings · Vector Search · LLMs
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** [Add your LinkedIn URL](https://www.linkedin.com/)
-- **Portfolio:** [Add your portfolio URL](https://github.com/)
-- **Email:** Add your professional email address
-
----
-
 *Always learning, experimenting, and building with AI.* 🤖
