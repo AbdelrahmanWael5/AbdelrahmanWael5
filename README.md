@@ -2,7 +2,7 @@
 
 ### Artificial Intelligence Engineer | Generative AI | Computer Vision
 
-I'm an Artificial Intelligence graduate from the **British University in Egypt**, faculty of Informatics and Computer Science with a bachelor's degree in Artificial Intelligence, passionate about building intelligent systems and exploring modern AI research. I enjoy turning research ideas into practical applications, particularly in **Generative AI, Deep Learning, and Computer Vision**.
+I'm an Artificial Intelligence graduate from the **British University in Egypt (Faculty of Informatics and Computer Science)**, holding a **B.Sc. in Artificial Intelligence with a First Class classification (UK degree)**. I'm passionate about building intelligent systems and exploring modern AI research, particularly in **Generative AI, Deep Learning, and Computer Vision**. I enjoy translating research ideas into practical AI applications.
 
 - 🧠 Exploring Large Language Models (LLMs), RAG systems, and multi-agent architectures.
 - 🔬 Interested in AI research, image generation, and diffusion-based models.
@@ -16,6 +16,7 @@ I'm an Artificial Intelligence graduate from the **British University in Egypt**
 **Programming Languages**
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **AI & Deep Learning**
 
