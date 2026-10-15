@@ -18,7 +18,7 @@ I'm an Artificial Intelligence graduate from the **British University in Egypt (
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**AI & Deep Learning**
+**AI, Machine Learning & Data Science**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -31,16 +31,20 @@ I'm an Artificial Intelligence graduate from the **British University in Egypt (
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 
-**Areas of Interest**
+**Tools & Development**
 
-`Generative AI` · `Diffusion Models` · `Computer Vision` · `Deep Learning` · `LLMs` · `RAG` · `Multi-Agent Systems`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 👕 HybridVTON — Virtual Try-On
-A diffusion-based virtual try-on system that combines explicit garment alignment with implicit attention-based correspondence to improve clothing transfer and preserve garment details.
+A diffusion-based virtual try-on system that combines explicit garment alignment with implicit attention-based correspondence to improve clothing-body alignment and preserve clothing details.
 
 **Focus:** Virtual Try-On · Diffusion Models · Computer Vision · PyTorch
 
