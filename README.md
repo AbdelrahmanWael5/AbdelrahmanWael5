@@ -2,7 +2,7 @@
 
 ### Artificial Intelligence Engineer | Generative AI | Computer Vision
 
-I'm an Artificial Intelligence graduate from the **British University in Egypt (Faculty of Informatics and Computer Science)**, holding a **B.Sc. in Artificial Intelligence with a First Class classification (UK degree)**. I'm passionate about building intelligent systems and exploring modern AI research, particularly in **Generative AI, Deep Learning, and Computer Vision**. I enjoy translating research ideas into practical AI applications.
+I'm an Artificial Intelligence graduate from the **British University in Egypt (Faculty of Informatics and Computer Science)**, holding a **B.Sc. in Artificial Intelligence**. I'm passionate about building intelligent systems and exploring modern AI research, particularly in **Generative AI, Deep Learning, and Computer Vision**. I enjoy translating research ideas into practical AI applications.
 
 - 🧠 Exploring Large Language Models (LLMs), RAG systems, and multi-agent architectures.
 - 🔬 Interested in AI research, image generation, and diffusion-based models.
@@ -21,8 +21,15 @@ I'm an Artificial Intelligence graduate from the **British University in Egypt (
 **AI & Deep Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Diffusers](https://img.shields.io/badge/Diffusers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 
 **Areas of Interest**
 
