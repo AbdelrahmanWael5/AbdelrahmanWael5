@@ -39,5 +39,3 @@ I'm an Artificial Intelligence graduate from the **British University in Egypt (
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ---
-
-*Always learning, experimenting, and building with AI.* 🤖
