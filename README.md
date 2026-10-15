@@ -2,12 +2,11 @@
 
 ### Artificial Intelligence Engineer | Generative AI | Computer Vision
 
-I'm an Artificial Intelligence graduate from the **British University in Egypt (Faculty of Informatics and Computer Science)**, holding a **B.Sc. in Artificial Intelligence**. I'm passionate about building intelligent systems and exploring modern AI research, particularly in **Generative AI, Deep Learning, and Computer Vision**. I enjoy translating research ideas into practical AI applications.
+I'm an Artificial Intelligence graduate from the **British University in Egypt (Faculty of Informatics and Computer Science)**, holding a **B.Sc. in Artificial Intelligence**. I'm passionate about building intelligent systems and exploring modern AI research, particularly in **Generative AI, Deep Learning, and Computer Vision**.
 
 - 🧠 Exploring Large Language Models (LLMs), RAG systems, and multi-agent architectures.
 - 🔬 Interested in AI research, image generation, and diffusion-based models.
-- 👨‍💻 Building AI solutions using PyTorch and the Hugging Face ecosystem.
-- 🚀 Interested in developing research-driven AI applications that solve real-world problems.
+- 🚀 Building practical AI applications using PyTorch and the Hugging Face ecosystem.
 
 ---
 
